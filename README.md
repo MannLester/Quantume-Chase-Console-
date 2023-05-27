@@ -1,2 +1,2 @@
-# Quantume-Chase-Console-
-Quantum Chase (Console Version) is a Python quiz-based console game that incorporates the 17 SDGs.
+<h1 align = "center"> QUANTUM CHASE: Hunt for Victory in the Quantum Realm </h1>
+<h2 align = "center">(Console Version)</h2>
