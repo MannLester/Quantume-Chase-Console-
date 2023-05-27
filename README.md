@@ -11,5 +11,5 @@
 
 <h3 id = "colleagues">Colleagues</h3>
 <p>&nbsp;&nbsp;&nbsp;This people were my groupmates/colleagues that helped me in accomplishing this program. Written below are their GitHub usernames:</p>
-<h3>DiomalLecaroz</h3>
-<h3>JMCM17</h3>
+<h5>DiomalLecaroz</h5>
+<h5>JMCM17</h5>
