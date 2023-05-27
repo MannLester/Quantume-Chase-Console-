@@ -10,4 +10,6 @@
 <p>The quiz-based format is designed to challenge the plyers' knowledge and understanding of the SDGs. By answering questions related to each SDG, players will be educated about the specific targets and indicators of each goal.</p>
 
 <h3 id = "colleagues">Colleagues</h3>
-<p>&nbsp;&nbsp;&nbsp;This people were my groupmates/colleagues that helped me in accomplishing this program. Written below are ther GitHub usernames:</p>
+<p>&nbsp;&nbsp;&nbsp;This people were my groupmates/colleagues that helped me in accomplishing this program. Written below are their GitHub usernames:</p>
+<h3>DiomalLecaroz</h3>
+<h3>JMCM17</h3>
